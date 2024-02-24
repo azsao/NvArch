@@ -1,6 +1,6 @@
 <div align="center">
 
-#NvArch
+# NvArch
 
 </div>
 
@@ -78,8 +78,8 @@ You may insert plugins via the ``~/nvim/lua/plugins.lua`` or the ``init.lua`` de
 Here are all the keybindings + their uses
 
 - Ctrl + N = Nvimtree 
-- <C> + p = telescope find files
-- <Leader> + f + g = live grep
+- `<C>` + p = telescope find files
+- `<Leader>` + f + g = live grep
 
 ## Extra
 For those interested in the plugins present, here they are:
