@@ -65,14 +65,14 @@ If any issues, feel free to let us know [here](https://github.com/azsao/NvArch/i
 
 You may insert plugins via the ``~/nvim/lua/plugins.lua`` or the ``init.lua`` depending on your needs.
 
-`` ~/.config/nvim
+``` ~/.config/nvim
 ├── lua
 │    └── plugins
 │       └── /etc/.lua
 │
 ├─ plugins.lua      
 └── init.lua
-``
+```
 ### Keybindings
 
 Here are all the keybindings + their uses
