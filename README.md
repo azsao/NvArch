@@ -15,7 +15,6 @@ Our minimalistic Neovim distribution offers a streamlined editing experience wit
 <details>
     <summary><strong>Screenshots</strong></summary>
 
-  ![NvArch](https://github.com/mitzsou/NvArch/assets/145884925/ab36f6bc-3e40-4e05-84a9-099b2538e3e9)
 
 
 
@@ -34,7 +33,7 @@ sudo rm -r ~/.config/nvim
 - Clone the repository
 
 ```bash
-git clone https://github.com/mitzsou/NvArch.git
+git clone https://github.com/azsao/NvArch.git
 ```
 
 - Move the necessaary files
