@@ -67,5 +67,12 @@ vim.keymap.set({ 'n' }, '<leader>l', vim.lsp.buf.code_action, {})
       })
     end,
   },
+{
+    "nvim-neotest/nvim-nio",
+    config = function()
+        -- Configuration for nvim-nio
+    end
+},
 }
+
 
